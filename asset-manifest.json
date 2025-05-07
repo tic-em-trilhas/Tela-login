@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/tic-em-trilhas/Tela-login/static/css/main.93d83862.css",
-    "main.js": "/tic-em-trilhas/Tela-login/static/js/main.37d22da7.js",
-    "static/media/logotipo.png": "/tic-em-trilhas/Tela-login/static/media/logotipo.a9d8900a3d4aef168a23.png",
-    "index.html": "/tic-em-trilhas/Tela-login/index.html",
-    "main.93d83862.css.map": "/tic-em-trilhas/Tela-login/static/css/main.93d83862.css.map",
-    "main.37d22da7.js.map": "/tic-em-trilhas/Tela-login/static/js/main.37d22da7.js.map"
+    "main.css": "/Tela-login/static/css/main.93d83862.css",
+    "main.js": "/Tela-login/static/js/main.4c0a9858.js",
+    "static/media/logotipo.png": "/Tela-login/static/media/logotipo.a9d8900a3d4aef168a23.png",
+    "index.html": "/Tela-login/index.html",
+    "main.93d83862.css.map": "/Tela-login/static/css/main.93d83862.css.map",
+    "main.4c0a9858.js.map": "/Tela-login/static/js/main.4c0a9858.js.map"
   },
   "entrypoints": [
     "static/css/main.93d83862.css",
-    "static/js/main.37d22da7.js"
+    "static/js/main.4c0a9858.js"
   ]
 }
