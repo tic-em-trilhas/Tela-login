@@ -1,7 +1,7 @@
 {
   "name": "login-fe",
   "version": "0.1.0",
-  "homepage": "https://zaozin656.github.io/tic-em-trilhas/Tela-login",
+  "homepage": "https://tic-em-trilhas.github.io/Tela-login",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
